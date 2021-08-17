@@ -36,4 +36,7 @@ In your lab today, you'll be doing a full "professional" deployment using 2 bran
 
 You will repeat this process for every server based lab moving forward. Keep these notes (and the lab steps) handy for future reference.
 
-Heroku link : https://deployed-server-dev.herokuapp.com/
+Heroku deployed link: https://deployed-server-dev.herokuapp.com/
+
+GitHub Actions link: https://github.com/DevJessParker/server-deployment-practice/actions
+
